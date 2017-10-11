@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/TitleAPI.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/Vault.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/ProtocolLib (1).jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/Essentials.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/RainbowText.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/ActionBarAPI-1.4.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/worldedit-bukkit-6.1.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/worldguard-6.1.jar" />
+    <libelement value="file://$USER_HOME$/Downloads/ScoreboardLib.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/jAPI.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/spigot-1.9.4.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/PacketListenerAPI_v3.4.2.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/ParticleAPI_v2.1.0.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/HologramAPI_v1.5.2.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/plugins/public/soundcancel/v1.0.0/SoundCanceler.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/BanManager.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/EnjinMinecraftPlugin.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/LibsDisguises.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/votifier-1.9.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/NoteBlockAPI.jar" />
+    <libelement value="file://$USER_HOME$/Dropbox/Server/plugins/citizens-2.0.18-SNAPSHOT.jar" />
+    <conelement value="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="JavaSE-1.8" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="TitleAPI.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/TitleAPI.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Vault.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/Vault.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ProtocolLib (1).jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/ProtocolLib (1).jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Essentials.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/Essentials.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="RainbowText.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/RainbowText.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ActionBarAPI-1.4.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/ActionBarAPI-1.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="worldedit-bukkit-6.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/worldedit-bukkit-6.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="worldguard-6.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/worldguard-6.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER" level="application" />
+    <orderEntry type="module-library">
+      <library name="ScoreboardLib.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/ScoreboardLib.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jAPI.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/jAPI.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spigot-1.9.4.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/spigot-1.9.4.jar" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="https://hub.spigotmc.org/javadocs/spigot/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$USER_HOME$/Documents/spigot-1.9.4_source_from_cfr" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PacketListenerAPI_v3.4.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/PacketListenerAPI_v3.4.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ParticleAPI_v2.1.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/ParticleAPI_v2.1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="HologramAPI_v1.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/HologramAPI_v1.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="SoundCanceler.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/plugins/public/soundcancel/v1.0.0/SoundCanceler.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="BanManager.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/BanManager.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="EnjinMinecraftPlugin.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/EnjinMinecraftPlugin.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="LibsDisguises.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/LibsDisguises.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="votifier-1.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/votifier-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="ConnectFour EDIT" />
+    <orderEntry type="module-library">
+      <library name="NoteBlockAPI.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/NoteBlockAPI.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="citizens-2.0.18-SNAPSHOT.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Server/plugins/citizens-2.0.18-SNAPSHOT.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/TitleAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/ProtocolLib (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/Essentials.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/RainbowText.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/ActionBarAPI-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/worldedit-bukkit-6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/worldguard-6.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/retro/Downloads/ScoreboardLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/jAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/spigot-1.9.4.jar" sourcepath="C:/Users/retro/Documents/spigot-1.9.4_source_from_cfr">
+		<attributes>
+			<attribute name="javadoc_location" value="https://hub.spigotmc.org/javadocs/spigot/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/PacketListenerAPI_v3.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/ParticleAPI_v2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/HologramAPI_v1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/plugins/public/soundcancel/v1.0.0/SoundCanceler.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/BanManager.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/EnjinMinecraftPlugin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/LibsDisguises.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/votifier-1.9.jar"/>
+	<classpathentry kind="src" path="/ConnectFour EDIT"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/NoteBlockAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/retro/Dropbox/Server/plugins/citizens-2.0.18-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
